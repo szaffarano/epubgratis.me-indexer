@@ -29,3 +29,7 @@ pip-log.txt
 .cache
 /.project
 /.pydevproject
+epubgratis.log
+listado.html
+obras.db
+
